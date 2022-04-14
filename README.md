@@ -5,11 +5,10 @@ This analysis is an optional Capstone project from the [Google Data Analytics Pr
 # Google-Data-Analytics-Case-Study
 Case Study: How Does a Bike-Share Navigate Speedy Success?
 
-![Alt text](C:\Users\cy\Desktop/image)
+![Alt text](pics/image.png)
 
 
-
-## Scenario
+### Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
@@ -17,7 +16,7 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-## Characters and teams
+### Characters and teams
 * Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
 disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about
@@ -32,7 +31,7 @@ achieve them.
 * Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.  
 
-## About the company
+### About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
 returned to any other station in the system anytime.  
@@ -51,7 +50,21 @@ casual riders would buy a membership, and how digital media could affect their m
 interested in analyzing the Cyclistic historical bike trip data to identify trends.  
 
 
-## Business Task
+### Business Task
+Analyze how casual riders and annual members use Cyclistic bikes differently and design marketing strategies aimed at converting casual riders into annual members.
 
+### Business Objectives
+* The difference between casual riders and annual members.
+* Find the trends and what insights these trends can tell us.
+* How to design marketing strategies based on historical data.
 
+### Tools
+I use Python to merge, clean, analyze, and visualize the data.
 
+### Data Source
+The data is provided by [Divvy: Chicago's Bike Share Program](https://ride.divvybikes.com/)  
+Data Stored in [here](https://divvy-tripdata.s3.amazonaws.com/index.html)  
+Owner: Chicago City
+
+- You can see [here](tripdata.ipynb) to check the result.
+- Please let me know if there's anything wrong or inaccurate, Thank you.
